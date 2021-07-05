@@ -1,3 +1,10 @@
+**/data
+**/train_weights
+**/weights
+*.h5
+*.csv
+*.hdf5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

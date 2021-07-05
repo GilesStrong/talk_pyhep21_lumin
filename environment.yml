@@ -1,0 +1,10 @@
+name: lumin
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - pip
+  - pip:
+    - torch==1.9.0
+    - lumin==0.8.0
