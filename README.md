@@ -1,5 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GilesStrong/talk_pyhep21_lumin/blob/main/Binary_Classification_Signal_versus_Background.ipynb)
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5075081.svg)](https://doi.org/10.5281/zenodo.5075081) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5089906.svg)](https://doi.org/10.5281/zenodo.5089906)
 
 # An Introduction to LUMIN: A deep learning and data science ecosystem for high-energy physics
 
