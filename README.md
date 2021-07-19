@@ -5,7 +5,7 @@
 
 **Giles Strong, Originally presented at PyHEP 2021: https://indi.to/WnHcZ**
 
-<!-- YouTube recording: -->
+YouTube recording: https://www.youtube.com/watch?v=keDWQKHCa2o
 
 LUMIN is a deep-learning and data-analysis ecosystem for High-Energy Physics. Similar to Keras and fastai it is a wrapper framework for a graph computation library (PyTorch), but includes many useful functions to handle domain-specific requirements and problems. It also intends to provide easy access to state-of-the-art methods, but still be flexible enough for users to inherit from base classes and override methods to meet their own demands.
 
